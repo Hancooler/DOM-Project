@@ -1,3 +1,5 @@
-h1 {
-  color: black;
+.huge {
+  font-size: 10rem;
+  font-weight: bold;
+  color: #ff6347; /* Tomato color */
 }
